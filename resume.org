@@ -135,11 +135,11 @@ reuben.peterpaul@gmail.com
 [fn:1] See my [[http://re.vu/reubenPeterPaul][Skill Proficiency Graph]].   
 
 * Publications and Paper Presentations
-  * Zou, G., Peter-Paul, R., Boley, H., Riazanov, A. “PSOA2TPTP: A Reference Translator for Interoperating PSOA RuleML with TPTP Reasoners”. In: Bikakis, A., Giurca, A. (eds.) RuleML 2012. LNCS, vol. 7438, pp. 264–279. Springer, Heidelberg (2012)
-  * Gen Zou, Reuben Peter-Paul, Harold Boley and Alexandre Riazanov, “PSOA2TPTP: Designing and Prototyping a Translator from PSOA RuleML to TPTP Format”, poster presented at UNB Computer Science Research Expo, April 4, 2012
-  * L. Goldfarb, I. Scrimger, B. R. Peter-Paul, “ETS as a structural language for decision modeling and analysis: Planning, anticipation and monitoring ”, Risk and Decision Analysis Journal, Vol. 1 Number 2, 2009 
-  * L. Goldfarb, B. R. Peter-Paul, I. Scrimger, “ETS Representation of Human Movement”, poster presented at UNB Computer Science Research Expo, April 4, 2007 
-  * B. R. Peter-Paul, “Why is the String an Unreliable Data Structure?”, presented my undergraduate honors thesis at APICS 29th Annual Conference, Acadia University, October 21-23, 2005
+  - Zou, G., Peter-Paul, R., Boley, H., Riazanov, A. “PSOA2TPTP: A Reference Translator for Interoperating PSOA RuleML with TPTP Reasoners”. In: Bikakis, A., Giurca, A. (eds.) RuleML 2012. LNCS, vol. 7438, pp. 264–279. Springer, Heidelberg (2012)
+  - Gen Zou, Reuben Peter-Paul, Harold Boley and Alexandre Riazanov, “PSOA2TPTP: Designing and Prototyping a Translator from PSOA RuleML to TPTP Format”, poster presented at UNB Computer Science Research Expo, April 4, 2012
+  - L. Goldfarb, I. Scrimger, B. R. Peter-Paul, “ETS as a structural language for decision modeling and analysis: Planning, anticipation and monitoring ”, Risk and Decision Analysis Journal, Vol. 1 Number 2, 2009 
+  - L. Goldfarb, B. R. Peter-Paul, I. Scrimger, “ETS Representation of Human Movement”, poster presented at UNB Computer Science Research Expo, April 4, 2007 
+  - B. R. Peter-Paul, “Why is the String an Unreliable Data Structure?”, presented my undergraduate honors thesis at APICS 29th Annual Conference, Acadia University, October 21-23, 2005
 
 * Awards and Recognition
 ** May 2010
