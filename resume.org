@@ -2,163 +2,151 @@
 
 #+LaTeX_HEADER: \usepackage{mycv}
 
-#+MACRO: first  Puneeth
-#+MACRO: last   CHAGANTI
+#+MACRO: first  Reuben
+#+MACRO: last   Peter-Paul
 #+MACRO: full {{{first}}} {{{last}}}
-#+MACRO: address  \#215 Tansa House, IIT-B, Powai, Mumbai - 400076
-#+MACRO: phone  +91 996 757 6569
+#+MACRO: email reuben.peterpaul@gmail.com
+#+MACRO: phone  (506) 447-0612
 
-#+TITLE: Puneeth Chaganti
+#+TITLE: Reuben Peter-Paul
+
+* Contact Information
+** Email 
+reuben.peterpaul@gmail.com
+** Mobile
+{{{phone}}}
+** Homepage
+[[http://re.vu/reubenpeterpaul][re.vu/reubenPeterPaul]]
 
 * Work Experience
-*** July 2009 - /Present/
-    *Research Associate*, [[http://fossee.in][FOSSEE]], IIT-Bombay
+** May 2012 - /Present/
+   *Senior Software Engineer*, [[http://ipsnp.wikidot.com/][IPSNP Computing Inc.]], Saint John, New Brunswick
 
-    My work in this team involves design and development of learning
-    material for, and training of teachers and students in the area of
-    Python for Scientific Computing.  I have been involved in
-    development of the course material for an introductory course on
-    Software Tools, Techniques and Practices for Scientists and
-    Engineers, which is going to be delivered at various places
-    including IIT-B, beginning next semester.  I have also ported some
-    Control Engineering code from MATLAB to Python.  I have also been
-    involved in the initial set-up \& maintenance of the server.
-*** Jan - Jun, 2009
-    *Intern*, STMicroelectronics India Pvt. Ltd., Bangalore
+   As a (part-time) Senior Software Engineer with IPSNP Computing Inc., I am involved
+   in the development of semantic web technologies applied to bioinformatics and
+   clinical intelligence. These activities have involved the design and development of
+   an EBNF grammar, parsers, and an abstract syntax library for a proprietary SPARQL-
+   like trace language.
+   Additionally, I have been designing and developing a
+   specialized rule generator used to validate and tune a proprietary reasoner called
+   [[http://ipsnp.wikidot.com/hydra][Hydra]].
 
-    Developed a new sub-system for automated testing of a few of the
-    processes, for testing the software on a DigitalTV Chip.  The
-    sub-system abstracts out the actual function calls for the tests,
-    and allows the tests to be conducted by anybody.  This system
-    provides a scope for future automation of the testing process.
+** March 2012 - /Present/
+   *Information and Communications Technology Officer*, [[http://awdi-nb.com][Aboriginal Workforce Development Initiative]], Fredericton, New Brunswick
 
-*** May - Jul 2007
-    *Summer Intern*, National Physical Laboratory, New Delhi
+   As Information and Communications Technology (ICT) Officer, I am involved in the
+   design, implementation and execution of a federally funded project directed at the
+   development of the New Brunswick Aboriginal Information and Communications
+   Technology ([[http://awdi-nb.org/ict.html][NBAICT]]) project. A specialized training program, identified to meet the
+   growing demand for skilled workers in the ICT industry. To accomplish this we are
+   actively pursuing partnerships with (Canadian) federal and provincial government
+   representatives, First Nation leaders, ICT councils and Industry leaders. I also play a
+   key role in the direction, design and development of the curricula to be used for the
+   training concentrations.
 
-    Fabricated transparent nano-structured transparent ZnO thin films,
-    doped with MnO, using the Sol-Gel spin coating process.  Also
-    carried out characterization of the films using various techniques
-    like TEM, SEM, X-Ray diffraction and film stress measurement.
+** February 2009 - February 2012
+   *Prototype Development Specialist*, [[http://www.nrc-cnrc.gc.ca][National Research Council]], Fredericton, New Brunswick
+
+   /2011 Q1 - 2012 Q4/, I am part of a large effort involving several Research Officers, Application Specialists and industry parteners on the Dose Registry and Radiation Exposure Management (REM) systems.  I have played an active role as a technical lead and led implementation and execution of several key initiatives: continuous integration, systems design and architecture, build automation, database administration, system integration, application security, information auditing and software development.
+
+   /2010 Q2 - 2011 Q1/, I was tasked as a technical lead to rearchitect the OmniBid an “open system for many-to-many automated negotiation”.  This work involved collaboration with an NRC Research Officer (Scott Buffet) industry partner (confidential).  Additionally, I incorporated continuous integration (CI) using Jenkins, Behaviour Driven Development (BDD) using Cucumber and dependency management using Apache Ivy.
+
+   /2009 Q1 - 2010 Q2/, I collaborated with an NRC Research Officer (Bill McIver Jr) and an industry partner (Red Ball Internet) to develop an Automatic Vehicle Location (AVL) and fleet management information systems.  Several prototypes and ideas were proved, including: IP PBX-based Interactive Voice Response system using Asterisk / Adhearsion, Twitter-based push notification service, Automatic Voice Annunciation (AVA) system to announce upcoming major intersections or stops.  This collaboration was awarded a KIRA award for Technological Advancement and Innovation in the Private sector in 2010.
+
+** May 2008 - February 2009
+   *Software Consultant*, [[http://www.accreon.com][Accreon]], Fredericton, New Brunswick
+
+   I was hired as a software consultant to participate in the development of a software product for an existing client.  I was involved in the redesign of several important business and information processes and then tasked to implement them.  I was also responsible for managing releases of the product.
+
+** January 2006 - April 2008
+   *Research Assistant*, [[http://www.cs.unb.ca][Faculty of Computer Science]], [[http://www.unb.ca][University of New Brunswick]], Fredericton, New Brunswick
+
+   I was involved in the development of a new structural representational formalism, the Evolving Transformation System (ETS).  My activities as member of the ETS group included: development and formalization of new ETS concepts; collaborating on research papers for publication and conferences; and drafting technical drawings for data visualization, technical papers, posters and presentations.
+   
+   I also participated in a short prototyping project, with my co-supervisor Dr. Du, involving the development of custom software for the Sony Playstation Portable (PSP). 
+
+** January 2006 - April 2008
+   *Teaching Assistant*, [[http://www.cs.unb.ca][Faculty of Computer Science]], [[http://www.unb.ca][University of New Brunswick]], Fredericton, New Brunswick
+
+   I assisted in class labs and I marked assignments for several introductory, intermediate and advanced subjects, e.g.: basic programming, Internet technologies, design patterns, and software architecture.
+   
+** May 2005 - December 2005
+   *Software Developer*, Isomni Solutions Inc., Fredericton, New Brunswick
+
+   I was involved in programming of an e-learning course management solution (iLearn).  I also designed and developed web-based user interface and a reference manual.
+
 * Education
-*** 2005 - 2009
-    *B.E.(Hons.), Electrical and Electronics*
-***** Institution
-      Birla Institute of Technology and Science - Pilani, Goa Campus
-***** Score
-      8.31 out of 10 (CGPA)
-*** 2005
-    *Intermediate Public Examination*, Board of Intermediate
-     Education, A.P.
-***** Institution
-      Ratna Junior College, Hyderabad
-***** Score
-      94.2%
-*** 2003
-    *All India Secondary Certificate Examination*, CBSE
-***** Institution
-      D.A.V Public School, Hyderabad
-***** Score
-      94.8%
-* Academic Projects
-*** Aug - Dec, 2008 
-    *Designing a room status manager*
-    
-    Designed and developed a room status manager that keeps track of,
-    and shows whether the room is occupied or not. Visitors may choose
-    to leave messages, that can be viewed later.  It was designed as a
-    part of a course on Embedded System Design.  It involved
-    interfacing an LCD and a keypad to an 8051 and coding in assembly.
-***** Mentor
-      Dr.K.R. Anupama, EEE, BITS-Pilani, Goa Campus
-***** Team-mate
-      Ravitheja Tetali, B.E.(Hons.) Electronics \& Instrumentation
-*** Aug - Dec, 2008
-    *Study of phase transitions in mechanical models*
+** December 2006 - May 2009
+   *Master of Computer Science*, Specializing in data representation and visualization for pattern recognition and machine learning.
+   (Thesis: [[http://www.cs.unb.ca/~goldfarb/Theses/Reuben.pdf][On the role of temporal and spatial representations in light of the ETS formalism]])
 
-    The project involved the study, observation of the phases and
-    plotting the phase transitions in a simple mechanical model using
-    MATLAB as a tool. A simple model of a sphere rolling down the
-    surface of another sphere was considered and the phase transitions
-    between the pure rolling, rolling with slipping and detached
-    phases were studied.
-***** Mentor
-      Dr. A.K. Biswas, Physics, BITS-Pilani, Goa Campus
-*** Aug - Dec, 2007
-    *Simulation of class room acoustics*
+** Institution
+   University of New Brunswick
 
-    The project involved simulation of class-room acoustics using the
-    method of images, in general, and the Allen-Berkeley algorithm in
-    particular, to obtain the reverberation time profile of a cuboid
-    shaped classroom and to identify the `acoustically' best
-    locations. MATLAB was used to write and simulate the code. 
-***** Mentor
-      Dr. Toby Joseph, Physics, BITS-Pilani, Goa Campus
-***** Team-mate
-      Ravitheja Tetali, B.E. (Hons.) Electronics & Instrumentation
+** September 2000 - May 2005
+   *Bachelor of Computer Science*, [[http://www.unb.ca/fredericton/cs/undergrad/bcs/index.html][Co-op]], Honours and designated Major in Software Systems
+   (Honours thesis title: Why is the String an Unreliable Data Structure?)
+
+** Institution
+    University of New Brunswick
+
 * Other Projects
-*** Emacs Org-mode
-    I am an active contributor to Org-mode which is an Emacs package
-    for keeping notes, maintaining ToDo lists, project planning, and
-    authoring with a fast and effective plain-text system.
+** RuleML PSOA
+    I am an active contributor to the [[http://ruleml.org/#PSOA][RuleML PSOA specification]] as part of the [[http://reubenpeterpaul.github.com/PSOA-to-TPTP/][PSOA2TPTP]] project.  (Also see [[Publications and Paper Presentations][Publication List]] below.)
 
-    Apart from patches directly to Org-mode, I have made some
-    contributions to the "eco-system" of org-mode. \\
+* Selected Technical Skills and Abilities [fn:1]
+** Programming Languages
+    - General :: Java, Haskell, Lisp, Clojure, C/C++, Objective-C
+    - Scripting :: JavaScript, PL/SQL, BASH
+    - Markup :: HTML5, LaTeX, Markdown, Restructured Text, HAML
+    - Learning :: Clojure, Erlang, Scala, Python, ML, ZSH
+    - Build/Deployment Tools :: Maven, Ant, Automake, Rake, Capistrano, Leiningen
+    
+** Application Programming Interfaces (API) and Frameworks
+    - APIs :: J2EE, JAX-RS, JPA, JMS, Java Servlet, OSGI, Java Agent Development Environment (JADE)
+    - Frameworks :: jQuery, Ruby on Rails, Flex, Snap, Adhearsion, Jersey, RESTEasy, ANTLR, Parsec,
+    - Automated Testing :: xUnit, Cucumber, Mockito, RSpec
 
-    - org2blog :: An org-mode based client, that can be used to post
-                  directly to Wordpress blogs from within Org-mode.
-    - Pandoc :: Pandoc is a swiss-army knife, to convert files from
-                one markup format into another. I added org-mode as
-                one of the output formats to it.
-    - org-ghi :: Org-mode can be used to keep ToDo lists; and each bug
-                 or issue in your code, can be considered a ToDo
-                 item. org-ghi provides an interface between GitHub
-                 Issues and Org-mode.
-    - gollum :: Gollum is the git-powered wiki system that is used in
-                every GitHub Wiki. I have added org-mode support for
-                the visual editor of gollum. 
-*** GetHub
-    GetHub is a Chrome extension that displays desktop notifications
-    for new updates in your Github NewsFeed.
-* Technical Skills
-*** Languages & Libraries
-    - Proficient :: Python (Numpy, Scipy, Matplotlib), Emacs Lisp,
-                    Matlab, C, Bash, HTML, Javascript, CSS
-    - Learning :: Haskell, C++, OpenCV, CMU Sphinx
-*** Authoring
-    - Text :: Org-mode, LaTeX, reStructured Text, Emacs
-    - Graphics :: Gimp, Inkscape
-*** Version Control
-    Git, Mercurial
-*** Sys Admin
-    Good experience with system administration on Debian based systems
-    and Bash scripting.
-*** Course Design
-    Course design and Content development based on instructional
-    design principles. 
+**  Software Engineering
+    - Architectural Styles :: REpresentational State Transfer (REST), MVC, Web Template Engines, Pipeline
+    - Development Methodologies :: Agile, Extreme Programming (XP), Scrum, TDD/BDD/FDD 
+
+** Programming Theory 
+    - [[http://en.wikipedia.org/wiki/Programming_paradigm][Paradigms]] :: Object-Oriented (OOP), Function (FP), Metaprogramming
+    - Theory :: (Typed/Untyped) Lambda Calculus, Pi Calculus
+
+** Servers
+    - Web :: Apache HTTP, Tomcat, Mongrel, Node.js, Jetty, Snap
+    - Stack :: JBoss, JMX, Equinox, SpringSource dm Server, JADE
+    - Database :: MySQL, Oracle, PostgreSQL, SQLite, MongoDB, BigTable
+    - Version Control :: Git, Subversion
+    - Repository :: Apache Ivy, Sonatype Nexus
+    - Continuous Integration :: Jenkins
+
+** Authoring
+    - Code :: emacs, vim, eclipse, Xcode, Matlab
+    - Text :: Org-mode, ScribTeX 
+    - Interface :: Interface Builder
+    - Diagrams :: UMLet, Visio
+    
+** Telephony
+    - IVR :: Asterisk, Festival TTS
+
+[fn:1] See my [[http://re.vu/reubenPeterPaul][Skill Proficiency Graph]].   
 
 * Publications and Paper Presentations
-  - M.Deepa, N. Bahadur, A.K. Srivastava, P. Chaganti, K.N. Sood,
-    ``Optical properties and mechanical characteristics of transperent
-    nanostructured $Zn_{1-x}Mn_{x}O$ thin films'', \emph{Jour. of
-    Phy. and Chem. of Solids}, 70 (2009), 291-297
-  - Delivered a beginner level [[https://github.com/punchagan/talks/blob/master/scipy.in-2010/slides/outline.pdf?raw=true][talk]] at Scipy.in 2010 on Image
-    Processing, to get beginners enthused about Python and using it
-    for Image Processing. 
-  - Conducted [[https://github.com/punchagan/talks/blob/master/gnunify-2010/slides/gnunify-scipy.pdf?raw=true][workshop]] on Image Processing using SciPy at Gnunify 2010
+  * Zou, G., Peter-Paul, R., Boley, H., Riazanov, A. “PSOA2TPTP: A Reference Translator for Interoperating PSOA RuleML with TPTP Reasoners”. In: Bikakis, A., Giurca, A. (eds.) RuleML 2012. LNCS, vol. 7438, pp. 264–279. Springer, Heidelberg (2012)
+  * Gen Zou, Reuben Peter-Paul, Harold Boley and Alexandre Riazanov, “PSOA2TPTP: Designing and Prototyping a Translator from PSOA RuleML to TPTP Format”, poster presented at UNB Computer Science Research Expo, April 4, 2012
+  * L. Goldfarb, I. Scrimger, B. R. Peter-Paul, “ETS as a structural language for decision modeling and analysis: Planning, anticipation and monitoring ”, Risk and Decision Analysis Journal, Vol. 1 Number 2, 2009 
+  * L. Goldfarb, B. R. Peter-Paul, I. Scrimger, “ETS Representation of Human Movement”, poster presented at UNB Computer Science Research Expo, April 4, 2007 
+  * B. R. Peter-Paul, “Why is the String an Unreliable Data Structure?”, presented my undergraduate honors thesis at APICS 29th Annual Conference, Acadia University, October 21-23, 2005
 
+* Awards and Recognition
+** May 2010
+   *KIRA, Technological Advancement and Innovation in the Private Sector*, our team was recognized for our automatic vehicle location platform developed in partnership with [[http://redballinternet.com][Red Ball Internet]].
 
-* Personal Information
-*** Date of Birth
-    15^{th} October, 1987
-*** Address
-    {{{address}}}
-*** Phone   
-    {{{phone}}}
-*** E-mail
-    [[mailto:punchagan@muse-amuse.in][punchagan@muse-amuse.in]]
-*** Blog
-    http://punchagan.muse-amuse.in
-*** Code
-    https://github.com/punchagan   
+** August 2008
+   *Post Secondary Education Achievement*, I was recognized by the Pabineau First Nation community for successfully obtaining a master's degree in Computer Science.
 
-
+* References
+/Available upon request./
