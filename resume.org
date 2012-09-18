@@ -7,47 +7,46 @@
 #+MACRO: full {{{first}}} {{{last}}}
 #+MACRO: email reuben.peterpaul@gmail.com
 #+MACRO: phone  (506) 447-0612
+#+MACRO: homepage [[http://re.vu/reubenPeterPaul][re.vu/reubenPeterPaul]]
 
-#+TITLE: Reuben Peter-Paul
+#+TITLE: Reuben Peter-Paul, MCS
 
 * Contact Information
-** Email 
-reuben.peterpaul@gmail.com
+** Email
+{{{email}}}
 ** Mobile
 {{{phone}}}
 ** Homepage
-[[http://re.vu/reubenpeterpaul][re.vu/reubenPeterPaul]]
+{{{homepage}}}
 
 * Work Experience
 ** May 2012 - /Present/
-   *Senior Software Engineer*, [[http://ipsnp.wikidot.com/][IPSNP Computing Inc.]], Saint John, New Brunswick
+*Senior Software Engineer*, [[http://ipsnp.wikidot.com/][IPSNP Computing Inc.]], Saint John, New Brunswick
 
-   As a (part-time) Senior Software Engineer with IPSNP Computing Inc., I am involved
-   in the development of semantic web technologies applied to bioinformatics and
-   clinical intelligence. These activities have involved the design and development of
-   an EBNF grammar, parsers, and an abstract syntax library for a proprietary SPARQL-
-   like trace language.
-   Additionally, I have been designing and developing a
-   specialized rule generator used to validate and tune a proprietary reasoner called
-   [[http://ipsnp.wikidot.com/hydra][Hydra]].
+I work (part-time) as a programmer for IPSNP Computing Inc., where I am involved in
+the development of semantic web technologies applied to bioinformatics and
+clinical intelligence.
+
+/[logic programming, context free grammars, systems scripting and integration]/
 
 ** March 2012 - /Present/
-   *Information and Communications Technology Officer*, [[http://awdi-nb.com][Aboriginal Workforce Development Initiative]], Fredericton, New Brunswick
+*Information and Communications Technology Officer*, [[http://awdi-nb.com][Aboriginal Workforce Development Initiative]], Fredericton, New Brunswick
 
-   As Information and Communications Technology (ICT) Officer, I am involved in the
-   design, implementation and execution of a federally funded project directed at the
-   development of the New Brunswick Aboriginal Information and Communications
-   Technology ([[http://awdi-nb.org/ict.html][NBAICT]]) project. A specialized training program, identified to meet the
-   growing demand for skilled workers in the ICT industry. To accomplish this we are
-   actively pursuing partnerships with (Canadian) federal and provincial government
-   representatives, First Nation leaders, ICT councils and Industry leaders. I also play a
-   key role in the direction, design and development of the curricula to be used for the
-   training concentrations.
+As Information and Communications Technology (ICT) Officer, I am involved in the
+design, implementation and execution of a federally funded project directed at the
+development of a specialized /training-to-employment/ program called the
+New Brunswick Aboriginal Information and Communications Technology ([[http://awdi-nb.org/ict.html][NBAICT]]) project.
+
+/[partnership building, curricula design, marketing, public speaking, statistical analysis]/
 
 ** February 2009 - February 2012
    *Prototype Development Specialist*, [[http://www.nrc-cnrc.gc.ca][National Research Council]], Fredericton, New Brunswick
 
-   /2011 Q1 - 2012 Q4/, I am part of a large effort involving several Research Officers, Application Specialists and industry parteners on the Dose Registry and Radiation Exposure Management (REM) systems.  I have played an active role as a technical lead and led implementation and execution of several key initiatives: continuous integration, systems design and architecture, build automation, database administration, system integration, application security, information auditing and software development.
+As a programmer specialist for the National Research Council, I worked in teams consisting of
+other NRC Prototype Development Specialists, Research Officers, Business Development Officers,
+and Industry partners.
+
+   /2011 Q1 - 2012 Q4/, I was part of a large effort involving several Research Officers, Application Specialists and industry parteners on the Dose Registry and Radiation Exposure Management (REM) systems.  I have played an active role as a technical lead and led implementation and execution of several key initiatives: continuous integration, systems design and architecture, build automation, database administration, system integration, application security, information auditing and software development.
 
    /2010 Q2 - 2011 Q1/, I was tasked as a technical lead to rearchitect the OmniBid an “open system for many-to-many automated negotiation”.  This work involved collaboration with an NRC Research Officer (Scott Buffet) industry partner (confidential).  Additionally, I incorporated continuous integration (CI) using Jenkins, Behaviour Driven Development (BDD) using Cucumber and dependency management using Apache Ivy.
 
@@ -62,14 +61,14 @@ reuben.peterpaul@gmail.com
    *Research Assistant*, [[http://www.cs.unb.ca][Faculty of Computer Science]], [[http://www.unb.ca][University of New Brunswick]], Fredericton, New Brunswick
 
    I was involved in the development of a new structural representational formalism, the Evolving Transformation System (ETS).  My activities as member of the ETS group included: development and formalization of new ETS concepts; collaborating on research papers for publication and conferences; and drafting technical drawings for data visualization, technical papers, posters and presentations.
-   
-   I also participated in a short prototyping project, with my co-supervisor Dr. Du, involving the development of custom software for the Sony Playstation Portable (PSP). 
+
+   I also participated in a short prototyping project, with my co-supervisor Dr. Du, involving the development of custom software for the Sony Playstation Portable (PSP).
 
 ** January 2006 - April 2008
    *Teaching Assistant*, [[http://www.cs.unb.ca][Faculty of Computer Science]], [[http://www.unb.ca][University of New Brunswick]], Fredericton, New Brunswick
 
    I assisted in class labs and I marked assignments for several introductory, intermediate and advanced subjects, e.g.: basic programming, Internet technologies, design patterns, and software architecture.
-   
+
 ** May 2005 - December 2005
    *Software Developer*, Isomni Solutions Inc., Fredericton, New Brunswick
 
@@ -101,7 +100,7 @@ reuben.peterpaul@gmail.com
     - Markup :: HTML5, LaTeX, Markdown, Restructured Text, HAML
     - Learning :: Clojure, Erlang, Scala, Python, ML, ZSH
     - Build/Deployment Tools :: Maven, Ant, Automake, Rake, Capistrano, Leiningen
-    
+
 ** Application Programming Interfaces (API) and Frameworks
     - APIs :: J2EE, JAX-RS, JPA, JMS, Java Servlet, OSGI, Java Agent Development Environment (JADE)
     - Frameworks :: jQuery, Ruby on Rails, Flex, Snap, Adhearsion, Jersey, RESTEasy, ANTLR, Parsec,
@@ -109,9 +108,9 @@ reuben.peterpaul@gmail.com
 
 **  Software Engineering
     - Architectural Styles :: REpresentational State Transfer (REST), MVC, Web Template Engines, Pipeline
-    - Development Methodologies :: Agile, Extreme Programming (XP), Scrum, TDD/BDD/FDD 
+    - Development Methodologies :: Agile, Extreme Programming (XP), Scrum, TDD/BDD/FDD
 
-** Programming Theory 
+** Programming Theory
     - [[http://en.wikipedia.org/wiki/Programming_paradigm][Paradigms]] :: Object-Oriented (OOP), Function (FP), Metaprogramming
     - Theory :: (Typed/Untyped) Lambda Calculus, Pi Calculus
 
@@ -125,20 +124,20 @@ reuben.peterpaul@gmail.com
 
 ** Authoring
     - Code :: emacs, vim, eclipse, Xcode, Matlab
-    - Text :: Org-mode, ScribTeX 
+    - Text :: Org-mode, ScribTeX
     - Interface :: Interface Builder
     - Diagrams :: UMLet, Visio
-    
+
 ** Telephony
     - IVR :: Asterisk, Festival TTS
 
-[fn:1] See my [[http://re.vu/reubenPeterPaul][Skill Proficiency Graph]].   
+[fn:1] See my [[http://re.vu/reubenPeterPaul][Skill Proficiency Graph]].
 
 * Publications and Paper Presentations
   - Zou, G., Peter-Paul, R., Boley, H., Riazanov, A. “PSOA2TPTP: A Reference Translator for Interoperating PSOA RuleML with TPTP Reasoners”. In: Bikakis, A., Giurca, A. (eds.) RuleML 2012. LNCS, vol. 7438, pp. 264–279. Springer, Heidelberg (2012)
   - Gen Zou, Reuben Peter-Paul, Harold Boley and Alexandre Riazanov, “PSOA2TPTP: Designing and Prototyping a Translator from PSOA RuleML to TPTP Format”, poster presented at UNB Computer Science Research Expo, April 4, 2012
-  - L. Goldfarb, I. Scrimger, B. R. Peter-Paul, “ETS as a structural language for decision modeling and analysis: Planning, anticipation and monitoring ”, Risk and Decision Analysis Journal, Vol. 1 Number 2, 2009 
-  - L. Goldfarb, B. R. Peter-Paul, I. Scrimger, “ETS Representation of Human Movement”, poster presented at UNB Computer Science Research Expo, April 4, 2007 
+  - L. Goldfarb, I. Scrimger, B. R. Peter-Paul, “ETS as a structural language for decision modeling and analysis: Planning, anticipation and monitoring ”, Risk and Decision Analysis Journal, Vol. 1 Number 2, 2009
+  - L. Goldfarb, B. R. Peter-Paul, I. Scrimger, “ETS Representation of Human Movement”, poster presented at UNB Computer Science Research Expo, April 4, 2007
   - B. R. Peter-Paul, “Why is the String an Unreliable Data Structure?”, presented my undergraduate honors thesis at APICS 29th Annual Conference, Acadia University, October 21-23, 2005
 
 * Awards and Recognition
