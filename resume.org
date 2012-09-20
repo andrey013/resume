@@ -2,33 +2,38 @@
 
 #+LaTeX_HEADER: \usepackage{mycv}
 
+#+LaTeX_HEADER: \newcommand{\tab}{\hspace*{2em}}
+
 #+MACRO: first  Reuben
 #+MACRO: last   Peter-Paul
 #+MACRO: full {{{first}}} {{{last}}}
 #+MACRO: email reuben.peterpaul@gmail.com
 #+MACRO: phone  (506) 447-0612
 #+MACRO: homepage [[http://re.vu/reubenPeterPaul][re.vu/reubenPeterPaul]]
+#+MACRO: projects [[github.com/reubenPeterPaul][github.com/reubenPeterPaul]]
+#+MACRO: linkedin [[http://linkedin.com/in/reubenpeterpaul][LinkedIn.com/in/reubenPeterPaul]]
+#+MACRO: twitter [[https://twitter.com/reubenPeterPaul][twitter.com/reubenPeterPaul]]
 
-#+TITLE: Reuben Peter-Paul, MCS
+#+TITLE: \textbf{Reuben Peter-Paul, MCS}\\\emph{\Large{Computing Scientist and Software Engineer}}
 
 * Contact Information
 ** Email
 {{{email}}}
 ** Mobile
 {{{phone}}}
-** Homepage
-{{{homepage}}}
+** Homepages
+{{{homepage}}}, {{{linkedin}}}
 
 * Work Experience
 ** May 2012 - /Present/
 *Senior Software Engineer*, [[http://ipsnp.wikidot.com/][IPSNP Computing Inc.]], Saint John, New Brunswick
 
 I work (part-time) as a programmer for IPSNP Computing Inc., where I am involved in
-the development of semantic web technologies applied to bioinformatics and
+the development of semantic web technologies applied to bio-informatics and
 clinical intelligence.
-
-/[logic programming, context free grammars, systems scripting and integration]/
-
+#+BEGIN_QUOTE
+/[[software engineering]], [[Programming Languages][logic programming]], [[Authoring][context free grammars]], [[systems scripting]] and [[integration]]/
+#+END_QUOTE
 ** March 2012 - /Present/
 *Information and Communications Technology Officer*, [[http://awdi-nb.com][Aboriginal Workforce Development Initiative]], Fredericton, New Brunswick
 
@@ -37,108 +42,182 @@ design, implementation and execution of a federally funded project directed at t
 development of a specialized /training-to-employment/ program called the
 New Brunswick Aboriginal Information and Communications Technology ([[http://awdi-nb.org/ict.html][NBAICT]]) project.
 
-/[partnership building, curricula design, marketing, public speaking, statistical analysis]/
+#+BEGIN_QUOTE
+/partnership building, curricula design, marketing, public speaking, [[statistical analysis]]/
+#+END_QUOTE
 
 ** February 2009 - February 2012
-   *Prototype Development Specialist*, [[http://www.nrc-cnrc.gc.ca][National Research Council]], Fredericton, New Brunswick
+*Prototype Development Specialist*, [[http://www.nrc-cnrc.gc.ca][National Research Council]], Fredericton, New Brunswick
 
-As a programmer specialist for the National Research Council, I worked in teams consisting of
+As a programmer at the National Research Council, I worked in teams consisting of
 other NRC Prototype Development Specialists, Research Officers, Business Development Officers,
 and Industry partners.
 
-   /2011 Q1 - 2012 Q4/, I was part of a large effort involving several Research Officers, Application Specialists and industry parteners on the Dose Registry and Radiation Exposure Management (REM) systems.  I have played an active role as a technical lead and led implementation and execution of several key initiatives: continuous integration, systems design and architecture, build automation, database administration, system integration, application security, information auditing and software development.
+Three major projects I participated in were:
 
-   /2010 Q2 - 2011 Q1/, I was tasked as a technical lead to rearchitect the OmniBid an “open system for many-to-many automated negotiation”.  This work involved collaboration with an NRC Research Officer (Scott Buffet) industry partner (confidential).  Additionally, I incorporated continuous integration (CI) using Jenkins, Behaviour Driven Development (BDD) using Cucumber and dependency management using Apache Ivy.
+ * *REM*, dose registry and radiation exposure management platform.
+ * *OmniBid*, open system for many-to-many automated negotiation platform.
+ * *[[http://www.redballinternet.ca/advanced-gps-tracking-onboard-connectivity/all-about-trax][Trax]]*, automatic vehicle location platform.
 
-   /2009 Q1 - 2010 Q2/, I collaborated with an NRC Research Officer (Bill McIver Jr) and an industry partner (Red Ball Internet) to develop an Automatic Vehicle Location (AVL) and fleet management information systems.  Several prototypes and ideas were proved, including: IP PBX-based Interactive Voice Response system using Asterisk / Adhearsion, Twitter-based push notification service, Automatic Voice Annunciation (AVA) system to announce upcoming major intersections or stops.  This collaboration was awarded a KIRA award for Technological Advancement and Innovation in the Private sector in 2010.
+#+BEGIN_QUOTE
+/[[software engineering]], [[scripting]], [[automation][build automation]], [[automation][release management]], [[database management]], [[mobile application development]], [[automation][continuous integration]], [[software engineering][agile]], [[Authoring][architecture and design]]/
+#+END_QUOTE
 
 ** May 2008 - February 2009
-   *Software Consultant*, [[http://www.accreon.com][Accreon]], Fredericton, New Brunswick
+*Software Consultant*, [[http://www.accreon.com][Accreon]], Fredericton, New Brunswick
 
-   I was hired as a software consultant to participate in the development of a software product for an existing client.  I was involved in the redesign of several important business and information processes and then tasked to implement them.  I was also responsible for managing releases of the product.
-
-** January 2006 - April 2008
-   *Research Assistant*, [[http://www.cs.unb.ca][Faculty of Computer Science]], [[http://www.unb.ca][University of New Brunswick]], Fredericton, New Brunswick
-
-   I was involved in the development of a new structural representational formalism, the Evolving Transformation System (ETS).  My activities as member of the ETS group included: development and formalization of new ETS concepts; collaborating on research papers for publication and conferences; and drafting technical drawings for data visualization, technical papers, posters and presentations.
-
-   I also participated in a short prototyping project, with my co-supervisor Dr. Du, involving the development of custom software for the Sony Playstation Portable (PSP).
+I was hired as a software consultant to participate in a small team to redesign a software product for an existing client.
+# I was involved in the redesign of several important business and information processes and then tasked to implement them.
+#I was also responsible for managing releases of the product.
+#+BEGIN_QUOTE
+/[[software engineering]], [[scripting]], [[automation][build automation]], [[automation][release management]], [[database management]]/
+#+END_QUOTE
 
 ** January 2006 - April 2008
-   *Teaching Assistant*, [[http://www.cs.unb.ca][Faculty of Computer Science]], [[http://www.unb.ca][University of New Brunswick]], Fredericton, New Brunswick
+*Research Assistant*, [[http://www.cs.unb.ca][Faculty of Computer Science]], [[http://www.unb.ca][University of New Brunswick]], Fredericton, New Brunswick
 
-   I assisted in class labs and I marked assignments for several introductory, intermediate and advanced subjects, e.g.: basic programming, Internet technologies, design patterns, and software architecture.
+I was involved in the development of a new structural representational formalism, the Evolving Transformation System (ETS).
+#My activities as member of the ETS group included: development and formalization of new ETS concepts;
+#collaborating on research papers for publication and conferences; and drafting technical drawings for data visualization,
+#technical papers, posters and presentations.
+#I also participated in a short prototyping project, with my co-supervisor Dr. Du, involving the development of custom software for the Sony Playstation Portable (PSP).
+#+BEGIN_QUOTE
+/knowledge representation, computational theory, data visualization, symbolic computation, [[software engineering]]/
+#+END_QUOTE
+
+
+** January 2006 - April 2008
+*Teaching Assistant*, [[http://www.cs.unb.ca][Faculty of Computer Science]], [[http://www.unb.ca][University of New Brunswick]], Fredericton, New Brunswick
+
+I assisted in class labs and I marked assignments for several introductory, intermediate and advanced subjects in computer science.
+
+#, e.g.: basic programming, Internet technologies, design patterns, and software architecture.
 
 ** May 2005 - December 2005
-   *Software Developer*, Isomni Solutions Inc., Fredericton, New Brunswick
+*Software Developer*, Isomni Solutions Inc., Fredericton, New Brunswick
 
-   I was involved in programming of an e-learning course management solution (iLearn).  I also designed and developed web-based user interface and a reference manual.
+I developed an e-learning course management solution (iLearn).  I also designed and developed web-based user interface and a reference manual.
 
 * Education
 ** December 2006 - May 2009
-   *Master of Computer Science*, Specializing in data representation and visualization for pattern recognition and machine learning.
-   (Thesis: [[http://www.cs.unb.ca/~goldfarb/Theses/Reuben.pdf][On the role of temporal and spatial representations in light of the ETS formalism]])
+*Master of Computer Science*, Specializing in data representation and visualization for pattern recognition and machine learning.
 
 ** Institution
-   University of New Brunswick
+University of New Brunswick
 
 ** September 2000 - May 2005
-   *Bachelor of Computer Science*, [[http://www.unb.ca/fredericton/cs/undergrad/bcs/index.html][Co-op]], Honours and designated Major in Software Systems
-   (Honours thesis title: Why is the String an Unreliable Data Structure?)
+*Bachelor of Computer Science*, [[http://www.unb.ca/fredericton/cs/undergrad/bcs/index.html][Co-op]], Honours and designated Major in Software Systems
 
 ** Institution
-    University of New Brunswick
+University of New Brunswick
 
-* Other Projects
+* Active Projects
 ** RuleML PSOA
-    I am an active contributor to the [[http://ruleml.org/#PSOA][RuleML PSOA specification]] as part of the [[http://reubenpeterpaul.github.com/PSOA-to-TPTP/][PSOA2TPTP]] project.  (Also see [[Publications and Paper Presentations][Publication List]] below.)
+I am an active contributor to the [[http://ruleml.org/#PSOA][RuleML PSOA specification]] as part of the [[http://reubenpeterpaul.github.com/PSOA-to-TPTP/][PSOA2TPTP]] project.
 
-* Selected Technical Skills and Abilities [fn:1]
+* Selected Technical Skills and Abilities
+
 ** Programming Languages
-    - General :: Java, Haskell, Lisp, Clojure, C/C++, Objective-C
-    - Scripting :: JavaScript, PL/SQL, BASH
-    - Markup :: HTML5, LaTeX, Markdown, Restructured Text, HAML
-    - Learning :: Clojure, Erlang, Scala, Python, ML, ZSH
-    - Build/Deployment Tools :: Maven, Ant, Automake, Rake, Capistrano, Leiningen
 
-** Application Programming Interfaces (API) and Frameworks
-    - APIs :: J2EE, JAX-RS, JPA, JMS, Java Servlet, OSGI, Java Agent Development Environment (JADE)
-    - Frameworks :: jQuery, Ruby on Rails, Flex, Snap, Adhearsion, Jersey, RESTEasy, ANTLR, Parsec,
-    - Automated Testing :: xUnit, Cucumber, Mockito, RSpec
+/General:/
+   Java, Haskell, Lisp, Clojure, C/C++, Objective-C
+
+/Logic:/
+   Prolog, JBoss Drools, PSOA RuleML
+
+#<<systems scripting>>
+#<<scripting>>
+
+/Markup:/
+   HTML5, LaTeX, Markdown, Restructured Text, HAML, SASS
+
+/Scripting:/
+   JavaScript, Ruby, PL/SQL, BASH
+
+
+#+BEGIN_QUOTE
+/Learning: Clojure, Erlang, Scala/
+#+END_QUOTE
+
 
 **  Software Engineering
-    - Architectural Styles :: REpresentational State Transfer (REST), MVC, Web Template Engines, Pipeline
-    - Development Methodologies :: Agile, Extreme Programming (XP), Scrum, TDD/BDD/FDD
+#<<architecture>>
+#<<API>>
+#<<integration>>
+#<<software engineering>>
 
-** Programming Theory
-    - [[http://en.wikipedia.org/wiki/Programming_paradigm][Paradigms]] :: Object-Oriented (OOP), Function (FP), Metaprogramming
-    - Theory :: (Typed/Untyped) Lambda Calculus, Pi Calculus
+/Architectural Styles:/
+    REST, Web Services, Message Queue, MVC, Pipeline
+
+/Development Methodologies:/
+    Agile, Extreme Programming (XP), Scrum, TDD/BDD
+
+/APIs:/
+    J2EE, JAX-RS, JPA, JMS, Java Servlet, OSGI, JADE
+
+/Frameworks:/
+    jQuery, Rails, Flex, Adhearsion, Jersey, RESTEasy, ANTLR, Parsec
+
+#<<mobile application development>>
+
+/Mobile Platform:/
+iOS, Android
+
+#- Automated Testing :: xUnit, Cucumber, Mockito, RSpec
+#<<automation>>
+
+/Automation:/
+Jenkins, Maven, Ant, Automake, xUnit, Cucumber, RSpec
+
+#, Rake, Capistrano, Leiningen
+#<<telephony>>
+
+/Telephony:/ Asterisk, Festival TTS
+
+#** Programming Theory
+#- [[http://en.wikipedia.org/wiki/Programming_paradigm][Paradigms]] :: Object-Oriented (OOP), Function (FP), Metaprogramming
+#- Theory :: (Typed/Untyped) \lambda Calculus, \pi Calculus
 
 ** Servers
-    - Web :: Apache HTTP, Tomcat, Mongrel, Node.js, Jetty, Snap
-    - Stack :: JBoss, JMX, Equinox, SpringSource dm Server, JADE
-    - Database :: MySQL, Oracle, PostgreSQL, SQLite, MongoDB, BigTable
-    - Version Control :: Git, Subversion
-    - Repository :: Apache Ivy, Sonatype Nexus
-    - Continuous Integration :: Jenkins
+/Web:/ Apache HTTP, Tomcat, Mongrel, Node.js, Jetty, Snap
+
+/Stacks:/ JBoss, JMX, Equinox, SpringSource dm Server, JADE
+
+/Telephony:/ Asterisk
+
+#<<database management>>
+
+/Database:/ MySQL, Oracle, PostgreSQL, SQLite, MongoDB, BigTable
+
+/Version Control:/ Git, Subversion
+
+/Repository:/ Apache Ivy, Sonatype Nexus
+
 
 ** Authoring
-    - Code :: emacs, vim, eclipse, Xcode, Matlab
-    - Text :: Org-mode, ScribTeX
-    - Interface :: Interface Builder
-    - Diagrams :: UMLet, Visio
+/Code:/ emacs, vim, eclipse, Xcode, Matlab
 
-** Telephony
-    - IVR :: Asterisk, Festival TTS
+/Text:/ Org Mode, ScribTeX, Sphinx
+#<<statistical analysis>>
 
-[fn:1] See my [[http://re.vu/reubenPeterPaul][Skill Proficiency Graph]].
+/Statistical Analysis:/ Org-R, R
 
-* Publications and Paper Presentations
-  - Zou, G., Peter-Paul, R., Boley, H., Riazanov, A. “PSOA2TPTP: A Reference Translator for Interoperating PSOA RuleML with TPTP Reasoners”. In: Bikakis, A., Giurca, A. (eds.) RuleML 2012. LNCS, vol. 7438, pp. 264–279. Springer, Heidelberg (2012)
-  - Gen Zou, Reuben Peter-Paul, Harold Boley and Alexandre Riazanov, “PSOA2TPTP: Designing and Prototyping a Translator from PSOA RuleML to TPTP Format”, poster presented at UNB Computer Science Research Expo, April 4, 2012
-  - L. Goldfarb, I. Scrimger, B. R. Peter-Paul, “ETS as a structural language for decision modeling and analysis: Planning, anticipation and monitoring ”, Risk and Decision Analysis Journal, Vol. 1 Number 2, 2009
-  - L. Goldfarb, B. R. Peter-Paul, I. Scrimger, “ETS Representation of Human Movement”, poster presented at UNB Computer Science Research Expo, April 4, 2007
-  - B. R. Peter-Paul, “Why is the String an Unreliable Data Structure?”, presented my undergraduate honors thesis at APICS 29th Annual Conference, Acadia University, October 21-23, 2005
+/Diagrams:/ Graphviz, UMLet, Visio
+
+* Personal Information
+
+** Interests and Hobbies
+
+- Personal :: family, hunting, archery, chess, snow boarding, board games, music
+
+- Professional :: emacs, functional programming, web APIs, cloud computing, security
+
+- Scientific :: category theory, \lambda calculus, \pi calculus, proof-carrying code, knowledge/data visualization
+
+** Source Code Repositories
+
+[[https://github.com/reubenPeterPaul][GitHub]], [[http://code.google.com/u/101676264568220935370/][Google Code]]
+
 
 * Awards and Recognition
 ** May 2010
