@@ -25,19 +25,27 @@
 {{{homepage}}}, {{{linkedin}}}
 
 * Work Experience
-** May 2012 - /Present/
+** November 2012 - /Present/
+*Application Developer*, [[http://www.siemens.ca][Siemens Canada Limited]], Fredericton, New Brunswick
+
+As a member of the Fredericton-based Smart Grid Research and Development team, I am involved in the development of a Siemens Smart Grid Demand Response management system.
+#+BEGIN_QUOTE
+/[[software engineering]], [[software engineering][agile methodology]], [[statistical analysis]]/
+#+END_QUOTE
+
+** May 2012 - November 2012
 *Senior Software Engineer*, [[http://ipsnp.wikidot.com/][IPSNP Computing Inc.]], Saint John, New Brunswick
 
-I work (part-time) as a programmer for IPSNP Computing Inc., where I am involved in
+I worked (part-time) as a programmer for IPSNP Computing Inc., where I was involved in
 the development of semantic web technologies applied to bio-informatics and
 clinical intelligence.
 #+BEGIN_QUOTE
 /[[software engineering]], [[Programming Languages][logic programming]], [[Authoring][context free grammars]], [[systems scripting]] and [[integration]]/
 #+END_QUOTE
-** March 2012 - /Present/
+** March 2012 - November 2012
 *Information and Communications Technology Officer*, [[http://awdi-nb.com][Aboriginal Workforce Development Initiative]], Fredericton, New Brunswick
 
-As Information and Communications Technology (ICT) Officer, I am involved in the
+As Information and Communications Technology (ICT) Officer, I was involved in the
 design, implementation and execution of a federally funded project directed at the
 development of a specialized /training-to-employment/ program called the
 New Brunswick Aboriginal Information and Communications Technology ([[http://awdi-nb.org/ict.html][NBAICT]]) project.
